@@ -35,6 +35,42 @@ hypertext Markup language
      -It is used to link a of another wen site and attach file in website Eg.pdf file
 
 
+    <!--Blog and inline element or tag  -->
+      -Blog element
+        -which takes full width and always start with a new line  
+         -we can set height and width but in inline element.
+          Eg. div , p , h1-h6, form, table
+
+     -Inline element
+        -which take as much needed width and not start with a new line.
+          Eg. span, img , a     b , label, select
+      
+
+      -Inline-block
+       -combination of both element like img tag
+
+
+
+       <!-- semantic and non-semantic tag -->
+
+       -Sematic tag
+         -Semantic tags tell the browser and developers what the content is
+
+           <header> → top section of a page
+
+           <nav> → navigation menu
+
+           <main> → main content
+
+           <section> → separate section of content
+
+          <article> → independent piece of content
+
+           <footer> → bottom area of page    
+      
+        -Non-sematic tag
+           -These tags do not convey any special meaning about the content inside them.
+             eg. div , span
 
  
 
